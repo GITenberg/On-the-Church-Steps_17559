@@ -1,0 +1,27 @@
+_repo: On-the-Church-Steps_17559
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hallowell, Sarah C.
+    alias: Hallowell, Sarah Catharine (Fraley)
+    birthdate: 1833
+    deathdate: 1914
+    gutenberg_agent_id: '7453'
+    url: http://www.gutenberg.org/2009/agents/7453
+description: ''
+gutenberg_issued: '2006-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: On the Church Steps
+url: http://www.gutenberg.org/ebooks/17559
